@@ -9,8 +9,8 @@ I read some books in English, some in Russian ...
 
 * **Mindset: The New Psychology of Success**
 	_by Carol  Dweck_
-	>Rus: "Гибкое сознание: новый взгляд на психологию развития взрослых и детей", Кэрол Дуэк
-	
+	<p style="color:#b55"> Rus: "Гибкое сознание: новый взгляд на психологию развития взрослых и детей", Кэрол Дуэк </p>
+	<div style="background-color: red">test</div>
 * **A Mind For Numbers** 
 _by Barbara Oakle_
 	>"Думай как математик. Как решать любые проблемы быстрее и эффективнее", Барбара Оакли
