@@ -1,6 +1,6 @@
 # Materials for my self-development
 
-This material is used in my education and emprovement
+This material is used in my education and improvement
 
 ## Books
 I read some books in English, some in Russian ...
@@ -11,8 +11,8 @@ I read some books in English, some in Russian ...
 	_by Carol  Dweck_
 	>Rus: "Гибкое сознание: новый взгляд на психологию развития взрослых и детей", Кэрол Дуэк
 	
-* **Thinking like math** 
-_by Barbara Oakle_
+* **A Mind For Numbers** 
+_by Barbara Oakley_
 	>"Думай как математик. Как решать любые проблемы быстрее и эффективнее", Барбара Оакли
 	
 
